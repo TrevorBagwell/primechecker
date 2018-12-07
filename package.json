@@ -1,0 +1,28 @@
+{
+  "name": "spanishforkids",
+  "version": "1.0.0",
+  "description": "Teaches young kids different spanish words with their english definitions by playing games such as word search and define",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrevorBagwell/spanishforkids.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TrevorBagwell/spanishforkids/issues"
+  },
+  "homepage": "https://github.com/TrevorBagwell/spanishforkids#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.15"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.7"
+  }
+}
