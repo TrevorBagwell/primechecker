@@ -3,7 +3,8 @@ Team Members
 Sougat Pradhan: pradhan1@purdue.edu
 Trevor Bagwell: tbagwel@purdue.edu
 
-Project Title: Spanish For The Youth
-Project Description: Teaches young kids different spanish words by making them memorize the english definition's and playing games such as wordsearch and define
+Project Title: Prime Checker
+Project Description: Takes a number input from user and check if it is prime or not!
 
-Technologies: React (might be subject to change) 
+
+Technologies: Java Script, json files, Python 
