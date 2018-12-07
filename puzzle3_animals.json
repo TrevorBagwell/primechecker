@@ -1,0 +1,32 @@
+{"Animals":{
+    "camel":"el camello",
+    "leopard":"el leopardo",
+    "turtle":"la tortuga",
+    "hamster":"el hamster",
+    "rat":"la rata",
+    "llama":"la llama",
+    "elephant":"el elefante",
+    "zebra":"la cebra",
+    "rhinoceros":"el rinoceronte",
+    "lion":"el leon",
+    "pelican":"el pelicano",
+    "koala":"el koala",
+    "giraffe":"la jirafa",
+    "mouse":"el raton",
+    "crocodile":"el cocodrilo",
+    "buffalo":"el bufalo",
+
+    "monkey":"el mono",
+    "panther":"la pantera",
+    "jaguar":"el jaguar",
+    "flamingo":"el flamenco",
+    "panda":"el panda",
+    "snake":"la serpiente",
+    "gorilla":"el gorila",
+    "penguin":"el pinguino",
+    "hippopotamus":"el hipopotamo",
+    "dolphin":"el delfin",
+    "kangaroo":" el canguro",
+    "tiger":"el tigre"
+}
+}
